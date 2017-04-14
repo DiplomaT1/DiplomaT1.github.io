@@ -1,0 +1,175 @@
+@media (max-width: 1280px ) {
+	.spots {
+		margin: 0 auto;
+		text-align: center;
+	}
+	.svg {
+		margin: 0 auto;
+	}
+	.slider_item img:first-child {
+		width: 200px;
+		height: 200px;
+		margin: 0 auto;
+	}
+	.arrow_lift, .prev_button, .next_button {
+		display: none;
+	}
+	.sl_wid {
+		width: 100%;
+	}	
+	.slider_item{
+		margin-top: 40px;
+	}
+	.slider_item h4 {
+		margin:40px 0 0;
+	}
+	.arrows {
+		margin:25px 0 0;
+	}
+	.slider_item p {
+		margin:30px 0 0;
+		line-height: 1.667;
+		color: #c8c7c7;
+		font-size: 18px;
+	}
+	.slider_item .learn_btn {
+		margin:30px 0 0;
+	}
+}
+
+@media (max-width: 992px ) {
+	.soc_buttons {
+		text-align: right;
+		padding: 0;
+	}
+
+	.top_header {
+		height: 500px;
+	}
+
+	.header_center {
+		margin:0;
+	}
+
+	h2 {
+		font-size: 2em;
+	}
+
+	h4 {
+		font-size: 1.54em;
+	}
+
+	.menu {
+		padding: 10px 0;
+	}
+
+	.menu  a {
+		padding-right: 20px;
+		font-size: 12px;
+	}
+
+	.content {
+		padding: 0 25px;
+	}
+	.col-md-4 > h3 {
+		padding-top: 0;
+		text-align: center;
+		font-size: 35px;
+		margin-bottom: 0;
+	}
+	.science {
+		padding: 0 0 0 10px;
+	}
+	.how_work  {
+		margin-top: 0px;
+	}
+	.how_work > p {
+		margin-bottom: 50px;
+	}
+	.how_work > h4 {
+		padding-top: 30px;
+	}
+	.spots {
+		text-align: center;
+	}
+	.spots > p {
+		margin-bottom: 50px;
+	}
+	.svg {
+		margin: 0 auto;
+	}
+	.spots_2 {
+		margin-top: 0;
+	}
+	.slider_item img:first-child {
+		width: 200px;
+		height: 200px;
+	}
+	.arrow_lift, .prev_button {
+		display: none;
+	}
+	.chosen {
+		margin-top: 50px;
+	}
+	.choose h2 {
+		text-align: center;
+	}	
+	.chosen p {
+		padding-left: 0;
+		max-width: 50%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.chosen h4 {
+		padding-left: 0;
+		line-height: 1.333;
+		font-size: 18px;
+		text-align: center;
+	}
+
+
+}
+
+@media (max-width: 732px ) {
+	.spots:first-child {
+		margin: 0 auto;
+	}
+	.spots {
+		margin: 0 auto;
+	}
+	.spots_2 {
+		margin-top: 0;
+	}
+	.slider_item img:first-child {
+		width: 200px;
+		height: 200px;
+	}
+	.arrow_lift, .prev_button {
+		display: none;
+	}
+	.choose h2 {
+		text-align: center;
+		font-size: 2em;
+		padding:30px 0;
+	}	
+	.chosen h4 {
+		text-align: center;
+		padding-top: 20px;
+	}
+	.chosen {
+		margin-top: 40px;
+		text-align: justify;
+	}
+	.chosen p {
+		padding-left: 0;
+		max-width: 80%;
+		margin: 0 auto;
+		text-align: center;
+	}
+	.collage img {
+		width: 100%;
+	}
+
+}
+
+

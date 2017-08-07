@@ -1,0 +1,63 @@
+section {
+	height: 100vh;
+	background-color: #666;
+	position: relative;
+	overflow: hidden;
+}
+
+.sect_1 {
+	background-image: url(../img/Full-HD-Wallpapers-5A9.jpg);
+	-webkit-background-size: cover;
+	background-size: cover;
+}
+.header_text {
+	font-family: "Arial", sans-serif;
+	font-style: italic;
+	font-weight: bold;
+	font-size: 40px;
+	color: #b9c7ea;
+	display: inline-block;
+	text-transform: uppercase;
+	line-height: 1.3;
+	position: absolute;
+	width: 900px;
+	top: 45%;
+	left: 25%;
+	margin-top: -33px;
+	margin-left: -225px;
+}
+
+@media screen and (max-width: 920px) {
+	.header_text {
+		font-size: 1.5em;
+		width: 400px;
+		left: 15%;
+		margin-left: 0;
+	}
+}
+
+.sect_2 {
+	width: 100%;
+	height: 100%;
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-image: url(../img/dd170f37d84b3b21635f2ece8d416afa_large.jpeg);
+	position: absolute;
+	top: -380px;
+}
+
+.sect_3 {
+	-webkit-background-size: cover;
+	background-size: cover;
+	background-image: url(../img/ComputerDesktopWallpapersCollection540_047_inxQEjv.jpg);
+}
+
+.middle {
+	width: 900px;
+	height: 10%;
+	position: absolute;
+	z-index: 100;
+	left: 75%;
+	margin-left: -675px;
+	top: 20%;
+}

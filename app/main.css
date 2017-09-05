@@ -1,0 +1,23 @@
+body {
+	position: relative;
+}
+.main_header_image {
+	background-image:url(img/background-header.png);
+	background-repeat:no-repeat;
+	background-size:cover;
+	background-position: top center;
+	height: 105px;
+	/*position: relative;*/
+}
+/*.main_header_image > row {
+	position: relative;
+}*/
+
+.logo {
+	background: url(img/logo.png) no-repeat;
+	 width: 161px; 
+	height: 46px;
+	position: absolute;
+	top:20.5%; 
+	left: 23.6%;
+}

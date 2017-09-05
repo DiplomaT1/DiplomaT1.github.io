@@ -1,5 +1,12 @@
 @media (max-width: 599px) {
-
+	.main_header_image {
+		background-image: none;
+		background: radial-gradient(#626975 30%, #41474b);
+	}
+	.logo {
+		left: 50%;
+		margin-left: -80px;
+	}
 }
 
 
@@ -9,7 +16,14 @@
 
 
 @media (min-width: 600px) and (max-width: 899px) {
-
+	.main_header_image {
+		background-image: none;
+		background: radial-gradient(#626975 30%, #41474b);
+	}
+	.logo {
+		left: 50%;
+		margin-left: -80px;
+	}
 }
 
 
